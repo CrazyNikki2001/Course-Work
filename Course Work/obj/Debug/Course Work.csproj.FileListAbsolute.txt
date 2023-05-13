@@ -1,0 +1,13 @@
+C:\Users\Username\Desktop\Универ\2 курс\C#\Программирование на C#\Course Work\bin\Debug\Course Work.exe.config
+C:\Users\Username\Desktop\Универ\2 курс\C#\Программирование на C#\Course Work\bin\Debug\Course Work.exe
+C:\Users\Username\Desktop\Универ\2 курс\C#\Программирование на C#\Course Work\bin\Debug\Course Work.pdb
+C:\Users\Username\Desktop\Универ\2 курс\C#\Программирование на C#\Course Work\obj\Debug\Course Work.csproj.AssemblyReference.cache
+C:\Users\Username\Desktop\Универ\2 курс\C#\Программирование на C#\Course Work\obj\Debug\Course Work.csproj.SuggestedBindingRedirects.cache
+C:\Users\Username\Desktop\Универ\2 курс\C#\Программирование на C#\Course Work\obj\Debug\Course_Work.Form1.resources
+C:\Users\Username\Desktop\Универ\2 курс\C#\Программирование на C#\Course Work\obj\Debug\Course_Work.Properties.Resources.resources
+C:\Users\Username\Desktop\Универ\2 курс\C#\Программирование на C#\Course Work\obj\Debug\Course Work.csproj.GenerateResource.cache
+C:\Users\Username\Desktop\Универ\2 курс\C#\Программирование на C#\Course Work\obj\Debug\Course Work.csproj.CoreCompileInputs.cache
+C:\Users\Username\Desktop\Универ\2 курс\C#\Программирование на C#\Course Work\obj\Debug\Course Work.exe
+C:\Users\Username\Desktop\Универ\2 курс\C#\Программирование на C#\Course Work\obj\Debug\Course Work.pdb
+C:\Users\Username\Desktop\Универ\2 курс\C#\Программирование на C#\Course Work\obj\Debug\Course_Work.Form2.resources
+C:\Users\Username\Desktop\Универ\2 курс\C#\Программирование на C#\Course Work\obj\Debug\Course_Work.Form3.resources
